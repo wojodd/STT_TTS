@@ -1,4 +1,4 @@
-## stt
+# STT
 * تم انشاء سيرفر في واتسون
 * apikey = S_btaC4Q_8oGTai9z4DHH3WtyRmU0Eyhau73WvExvb45
 * url = 'https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/bd9abb0c-e092-40d7-b894-a4cce16773a8'
@@ -9,10 +9,12 @@
 *  فتح الملف في المفكرة
 *  ![image](https://user-images.githubusercontent.com/86664682/126077958-10f210ca-84b5-46a5-8c5e-e26bbd293397.png)
 
-## tts 
+# TTS 
 * انشاء سيرفر في واتسون 
 * apikey": "XnK4Q01B2oBBsFzUvBDoVn5eh5aIXOVhWQyiX1BWaIrk"
 * url": "https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/eb91919f-82d8-4802-921d-b168b371f043"
 * اضافة سطر برمجي لحفظ النص المخزن على شكل ام بي 3
 * ![image](https://user-images.githubusercontent.com/86664682/126078128-46ac13a9-74b1-4999-a63b-727aa0864c7a.png)
-* 
+* سيتم تخزين الملف الصوتي
+* ![image](https://user-images.githubusercontent.com/86664682/126078430-11925898-a848-4bff-848a-07e1f2ed4bd9.png)
+
