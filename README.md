@@ -2,7 +2,7 @@
 * تم انشاء سيرفر في واتسون
 * apikey = S_btaC4Q_8oGTai9z4DHH3WtyRmU0Eyhau73WvExvb45
 * url = 'https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/bd9abb0c-e092-40d7-b894-a4cce16773a8'
-*  عند تشغيل الكود في واجهة الاوامر سيطلب قول اي شي
+*  عند تشغيل الكود في موجه الاوامر سيطلب قول اي شي
 *   ![image](https://user-images.githubusercontent.com/86664682/126077977-eea7ca72-5ceb-4a98-b6f6-60d243be2040.png)
 * اضافة سطر برمجي لحفظ الكلام على شكل نص
 * ![image](https://user-images.githubusercontent.com/86664682/126077847-c26abaa5-9a31-45c9-82b2-59a8467be44c.png)
